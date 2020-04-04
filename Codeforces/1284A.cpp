@@ -2,7 +2,7 @@
 
 using namespace std;
 
-nt main()
+int main()
 {
      string s[22], t[22];
      int n, m; cin >> n >> m;
