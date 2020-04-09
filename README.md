@@ -1,2 +1,2 @@
 # Competitive-Programming
-My random competitive programming solutions.
+My competitive programming solutions.
